@@ -17,6 +17,8 @@ We offer a wide range of services to bring your digital projects to life.
 -  **UI / UX & Graphic Design**
 -  **Content Management Systems (CMS)**
 -  **Website Maintenance & Support**
+-  **Graphic Design**
+-  **Marketing & Communication**
 
 ## Our Tech Stack
 
